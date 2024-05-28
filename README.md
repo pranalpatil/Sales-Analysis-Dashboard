@@ -1,4 +1,4 @@
-# pranalpatil-Sales-Analysis-Dashboard
+# Sales-Analysis-Dashboard
 
 Below are Screenshot of PowerBI Dashboard
 
